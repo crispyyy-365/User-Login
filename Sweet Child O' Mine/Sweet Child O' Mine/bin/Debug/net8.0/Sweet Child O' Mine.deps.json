@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sweet Child O' Mine/1.0.0": {
+        "runtime": {
+          "Sweet Child O' Mine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sweet Child O' Mine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
